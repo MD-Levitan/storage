@@ -4,3 +4,4 @@
     <title>Yahoo News - Latest News &amp; Headlines</title>
     <link>https://www.yahoo.com/news</link>
 </channel>
+</rss>
