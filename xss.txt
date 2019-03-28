@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss xmlns:media="http://search.yahoo.com/mrss/" version="2.0">
+<channel>
+    <title>Yahoo News - Latest News &amp; Headlines</title>
+    <link>https://www.yahoo.com/news</link>
+</channel>
