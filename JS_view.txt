@@ -1,0 +1,4 @@
+var dv=document.defaultView;var elems=document.body.getElementsByTagName('*');var numShown=0;var numSkipped=0;var numEnabled=0;var elem;var zInd;for(var i=0;i<elems.length;i++){elem=elems[i];zInd=dv.getComputedStyle(elem).getPropertyValue('z-index');if(dv.getComputedStyle(elem).display=='none'){if(!isNaN(zInd)||percentwidth(elem)>99||elem.tagName.toLowerCase()=='script'||elem.tagName.toLowerCase()=='style'){numSkipped++}else{elem.style.display='block';elem.style.outline='#FDFF47 solid 2px';numShown++}}
+if(elem.disabled){elem.disabled=!1;numEnabled++}}
+function percentwidth(elem){var pa=elem.offsetParent||elem;return Math.floor((elem.offsetWidth/pa.offsetWidth)*100)}
+console.log(numSkipped,'elements skipped.');console.log(numShown,'elements revealed.');console.log(numEnabled,'elements enabled.')
