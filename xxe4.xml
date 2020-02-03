@@ -8,7 +8,7 @@
 <title>Item One Example &xxe;</title>
 <description>This is an example of an Item Check </description>
 
- <link>javascript:alert(1)</link>
+ <link>javascript:alert(1)/</link>
 
  </item>
 
